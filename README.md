@@ -1,2 +1,3 @@
-# maven-hello-world
-maven-hello-world
+App used to demonstrate
+Git clone
+Maven Build
